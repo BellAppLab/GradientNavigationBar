@@ -1,0 +1,6 @@
+framework module Pods_GradientNavigationBar_Tests {
+  umbrella header "Pods-GradientNavigationBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

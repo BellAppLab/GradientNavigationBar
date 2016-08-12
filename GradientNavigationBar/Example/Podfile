@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GradientNavigationBar_Example' do
+  pod 'GradientNavigationBar', :path => '../'
+
+  target 'GradientNavigationBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

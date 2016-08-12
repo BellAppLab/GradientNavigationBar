@@ -1,0 +1,16 @@
+PODS:
+  - GradientNavigationBar (0.1.0)
+
+DEPENDENCIES:
+  - GradientNavigationBar (from `../`)
+
+EXTERNAL SOURCES:
+  GradientNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GradientNavigationBar: 9c1b03748713086396201df96a2ffa3abb78ecf0
+
+PODFILE CHECKSUM: 194ed9e7d16c4d1cbd52da12b1fc0c8b9ee7602f
+
+COCOAPODS: 1.0.1
