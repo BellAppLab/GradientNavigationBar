@@ -16,7 +16,7 @@ iOS navigation bar with a gradient background. Inspired by: https://cocoapods.or
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GradientNavigationBar/Classes/**/*'
+  s.source_files = 'GradientNavigationBar/GradientNavigationBar/Classes/**/*'
 
   s.frameworks = 'UIKit'
 end
