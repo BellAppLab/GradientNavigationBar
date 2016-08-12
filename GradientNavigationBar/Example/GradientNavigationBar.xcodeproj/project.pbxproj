@@ -14,6 +14,8 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		6248D82D995352A8BB2240D2 /* Pods_GradientNavigationBar_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C040588A258419E9D427B6E5 /* Pods_GradientNavigationBar_Example.framework */; };
+		6505BD341D5DFEE90072F8A2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 6505BD321D5DFEE90072F8A2 /* LICENSE */; };
+		6505BD351D5DFEE90072F8A2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 6505BD331D5DFEE90072F8A2 /* README.md */; };
 		B57286EB35A6E63BF170465C /* Pods_GradientNavigationBar_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04866A4EEDADDEC1C7F133A7 /* Pods_GradientNavigationBar_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +33,6 @@
 		01D04DC02231847741A180F1 /* Pods-GradientNavigationBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GradientNavigationBar_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-GradientNavigationBar_Example/Pods-GradientNavigationBar_Example.release.xcconfig"; sourceTree = "<group>"; };
 		04866A4EEDADDEC1C7F133A7 /* Pods_GradientNavigationBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GradientNavigationBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52C28FD55ED83E73FAFD01E4 /* Pods-GradientNavigationBar_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GradientNavigationBar_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GradientNavigationBar_Example/Pods-GradientNavigationBar_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		566AFC0E2C466ADE8C7C0017 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* GradientNavigationBar_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GradientNavigationBar_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,8 +43,9 @@
 		607FACE51AFB9204008FA782 /* GradientNavigationBar_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GradientNavigationBar_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
+		6505BD321D5DFEE90072F8A2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
+		6505BD331D5DFEE90072F8A2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		98B20F4FFD3AE5BB6A80BA56 /* Pods-GradientNavigationBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GradientNavigationBar_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GradientNavigationBar_Tests/Pods-GradientNavigationBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		9D967908919E8C855BCAC5D2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C040588A258419E9D427B6E5 /* Pods_GradientNavigationBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GradientNavigationBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D35B0EAB897CD1BDE5B14242 /* Pods-GradientNavigationBar_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GradientNavigationBar_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GradientNavigationBar_Tests/Pods-GradientNavigationBar_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EFF83CE5F99E7C159EC1059B /* GradientNavigationBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = GradientNavigationBar.podspec; path = ../GradientNavigationBar.podspec; sourceTree = "<group>"; };
@@ -142,8 +144,8 @@
 			isa = PBXGroup;
 			children = (
 				EFF83CE5F99E7C159EC1059B /* GradientNavigationBar.podspec */,
-				9D967908919E8C855BCAC5D2 /* README.md */,
-				566AFC0E2C466ADE8C7C0017 /* LICENSE */,
+				6505BD321D5DFEE90072F8A2 /* LICENSE */,
+				6505BD331D5DFEE90072F8A2 /* README.md */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -248,6 +250,7 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				6505BD341D5DFEE90072F8A2 /* LICENSE in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -359,6 +362,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6505BD351D5DFEE90072F8A2 /* README.md in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
