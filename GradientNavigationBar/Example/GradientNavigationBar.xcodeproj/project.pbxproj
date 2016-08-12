@@ -14,8 +14,6 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		6248D82D995352A8BB2240D2 /* Pods_GradientNavigationBar_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C040588A258419E9D427B6E5 /* Pods_GradientNavigationBar_Example.framework */; };
-		6505BD341D5DFEE90072F8A2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 6505BD321D5DFEE90072F8A2 /* LICENSE */; };
-		6505BD351D5DFEE90072F8A2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 6505BD331D5DFEE90072F8A2 /* README.md */; };
 		B57286EB35A6E63BF170465C /* Pods_GradientNavigationBar_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04866A4EEDADDEC1C7F133A7 /* Pods_GradientNavigationBar_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -250,7 +248,6 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
-				6505BD341D5DFEE90072F8A2 /* LICENSE in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -362,7 +359,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6505BD351D5DFEE90072F8A2 /* README.md in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
