@@ -17,7 +17,7 @@ public class GradientNavigationBar: UINavigationBar
     public static var defaultOpacity: Float = 0.5
     
     //MARK: Gradient
-    private weak var gradientLayer: CAGradientLayer?
+    public private(set) weak var gradientLayer: CAGradientLayer?
     
     public dynamic var colors: [UIColor]? {
         didSet {
