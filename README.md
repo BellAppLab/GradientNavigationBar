@@ -7,6 +7,8 @@
 
 iOS navigation bar with a gradient background. Inspired by: [https://cocoapods.org/pods/CRGradientNavigationBar](https://cocoapods.org/pods/CRGradientNavigationBar)
 
+![Gradient Navigation Bar][1]
+
 ## How to use
 
 Configure the Gradient Navigation Bar's appearence:
@@ -56,3 +58,5 @@ Bell App Lab, apps@bellapplab.com
 ## License
 
 GradientNavigationBar is available under the MIT license. See the LICENSE file for more info.
+
+[1]: https://github.com/BellAppLab/GradientNavigationBar/blob/master/screenshot.png?raw=true
